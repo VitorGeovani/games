@@ -102,7 +102,7 @@ border-color: black;
     border-color: black;
 }
 footer{
-    background-color: black;
+    background-color: white;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
