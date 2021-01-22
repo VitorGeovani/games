@@ -1,10 +1,10 @@
 <h1>Quiz - DC vs Marvel</h1>
 
-Projeto de LIMA (Senai Suiço-Brasileira)
+<h3>Projeto de LIMA (Senai Suiço-Brasileira)</h3>
 
 <h3>Manual do Jogador:</h3>
 
-Para poder jogar este jogo é muito simples...
+<strong>Para poder jogar este jogo é muito simples...</strong>
 
 <strong>1º Passo:</strong> Escolha uma das cartas, ao todo são 12. O recomendado é seguir a sequência proposta.
 <br>
