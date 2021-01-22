@@ -2,9 +2,9 @@
 
 Projeto de LIMA (Senai Suiço-Brasileira)
 
-Manual do Jogador:
+<h3>Manual do Jogador:</h3>
 
-- Para poder jogar este jogo é muito simples...
+Para poder jogar este jogo é muito simples...
 
 <strong>1º Passo:</strong> Escolha uma das cartas, ao todo são 12. O recomendado é seguir a sequência proposta.
 
