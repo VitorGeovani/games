@@ -7,7 +7,7 @@ Projeto de LIMA (Senai Suiço-Brasileira)
 Para poder jogar este jogo é muito simples...
 
 <strong>1º Passo:</strong> Escolha uma das cartas, ao todo são 12. O recomendado é seguir a sequência proposta.
-!(/games/print1.png)
+![Image](https://github.com/VitorGeovani/games/blob/main/print1.png)
 
 <strong>2º Passo:</strong> Ao escolher a carta, leia o seu título e a sua descrição, isso facilitará uma melhor compreensão sobre a pergunta e, portanto, facilitará também a resposta.
 
