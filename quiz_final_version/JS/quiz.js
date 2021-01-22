@@ -187,6 +187,11 @@ function refresh() {
     window.location.reload()
 }
 
+//Voltar ao topo
+function voltarTopo() {
+    window.scrollTo(0,0)
+}
+
 // Functions
 function gravarPontuacao(){
     // Criando objeto e adicionando no array ranking
