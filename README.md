@@ -1,4 +1,4 @@
-Quiz - DC vs Marvel
+<h1>Quiz - DC vs Marvel</h1>
 
 Projeto de LIMA (Senai Suiço-Brasileira)
 
