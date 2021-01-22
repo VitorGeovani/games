@@ -25,3 +25,9 @@
 <strong>5º Passo:</strong> Se você não estiver satisfeito com seu resultado, aperte no botão "Não obteve uma boa pontuação? Tente novamente!". Com esse botão, a página será recarregada e você poderá reiniciar o Quiz zerando sua pontuação.
 <br>
 ![Image](https://github.com/VitorGeovani/games/blob/main/print6.png)
+
+<h1>Como faço para poder jogar este jogo?</h1>
+
+<strong>Acesse o link abaixo e experimente o meu jogo:</strong>
+
+<strong>https://vitorgeovani.github.io/games/quiz_final_version/quiz.html</strong>
