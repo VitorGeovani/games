@@ -123,6 +123,18 @@ footer{
     color: white;
     border-color: black;
 }
+#inicio{
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 5px;
+    align-content: center;
+    align-items: center;
+    background-color: blue;  
+    color: white;
+    border-color: black;
+    margin-left: 2%;
+}
 .checkbox1, .checkbox2, .checkbox3, .checkbox4, .checkbox5, .checkbox6, .checkbox7, .checkbox8, .checkbox9, .checkbox10, .checkbox11, .checkbox12{
     justify-content: center;
 }
